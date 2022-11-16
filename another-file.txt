@@ -1,5 +1,6 @@
 another file
 
+edited in remotely
 
-some edited
+some edited in locally
 
